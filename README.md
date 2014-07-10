@@ -4,6 +4,8 @@ Wordpress Corpse nu van Ronny :P
 This is a modified Wordpress setup, inspired by Mark Jaquith's WordPress Skeleton package (hence the name). See [the upstream documentation](https://github.com/markjaquith/WordPress-Skeleton) for base details.
 
 ## How it works
+-- Added a new feature --
+
 Wordpress is included as a [Git Submodule](http://chrisjean.com/2009/04/20/git-submodules-adding-using-removing-and-updating/), this makes sure that Wordpress is always up to date. All the content (themes, plugins, languages etc) live in their own, version controlled, directory 'content'. Configuration of this is done in ```wp-config.php```. Local settings are stored in the not version controlled `local-config.php`.
 
 Uploads live in the non-version controlled folder ```/media``` in the root.
