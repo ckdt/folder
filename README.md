@@ -1,4 +1,4 @@
-Wordpress Corpse
+Wordpress Corpse nu van Ronny :P
 ==============================
 
 This is a modified Wordpress setup, inspired by Mark Jaquith's WordPress Skeleton package (hence the name). See [the upstream documentation](https://github.com/markjaquith/WordPress-Skeleton) for base details.
